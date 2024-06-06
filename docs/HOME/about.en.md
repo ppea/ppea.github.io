@@ -5,9 +5,11 @@ comments: true
 # 🔭 About
 
 ## About Me
+I'm a software developer specializing in embedded systems development.
+And also have a passion for learning about other fields and popular technologies.
 
 !!! tip
-    Just go to my GitHub: [🏘️ https://github.com/ppea](https://github.com/ppea){:target="_blank"}
+    Follow my GitHub for more details: [🏘️ https://github.com/ppea](https://github.com/ppea){:target="_blank"}
 
 ## About This Website
 This website is used for the collection, learning, research and sharing of technical knowledge. 

@@ -5,9 +5,11 @@ comments: true
 # 🔭 关于
 
 ## 关于我
+我是一名专注于嵌入式系统开发的软件开发者。
+同时也热衷于学习其他领域和流行的技术。
 
 !!! tip
-    请点击我的GitHub网站：[🏘️ https://github.com/ppea](https://github.com/ppea){target="_blank"}
+    更多请关注我的GitHub网站：[🏘️ https://github.com/ppea](https://github.com/ppea){target="_blank"}
 
 ## 关于本站
 
