@@ -26,6 +26,9 @@ comments: false
 </div>
 
 ## 🗺 嵌入式工程路线图
+!!! tip "提示"
+    嵌入式系统的哲学是做到刚好够用。
+
 [嵌入式工程路线图](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 ![Embedded Engineering Roadmap](./static/images/Embedded-Engineering-Roadmap.png)
 

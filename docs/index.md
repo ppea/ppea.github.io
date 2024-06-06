@@ -26,6 +26,9 @@ Explore this site by clicking the navigation bar on the top or the left.
 </div>
 
 ## 🗺 Embedded Engineering Roadmap
+!!! tip "Tips"
+    The philosophy for embedded systems is to be just enough to get the job done.
+
 [Embedded-Engineering-Roadmap](https://github.com/m3y54m/Embedded-Engineering-Roadmap)
 ![Embedded Engineering Roadmap](./static/images/Embedded-Engineering-Roadmap.png)
 
