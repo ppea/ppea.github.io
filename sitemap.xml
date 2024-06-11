@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     <url>
+        <loc>https://localhost:8000/about/</loc>
+        <lastmod>2024-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/about/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/about/"/>
+    </url>
+    <url>
         <loc>https://localhost:8000/</loc>
         <lastmod>2024-06-11</lastmod>
         <changefreq>daily</changefreq>
@@ -1847,6 +1854,13 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/blog/"/>
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/blog/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/about/</loc>
+        <lastmod>2024-06-11</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/about/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/about/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/</loc>
