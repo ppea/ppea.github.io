@@ -14,7 +14,7 @@ And also have a passion for learning about other fields and popular technologies
 ## About This Website
 This website is used for the collection, learning, research and sharing of technical knowledge. 
 
-![Cover](Cover.jpg)
+![Cover](./static/images/Cover.jpg)
 
 ## Visitors
 

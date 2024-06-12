@@ -15,7 +15,7 @@ comments: true
 
 本网站用于技术知识的收集、学习，研究和分享。
 
-![Cover](Cover.jpg)
+![Cover](./static/images/Cover.jpg)
 
 ## 访客统计
 
