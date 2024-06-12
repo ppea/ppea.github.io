@@ -1485,11 +1485,11 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/09.AI/TRANSFORMER/transformer/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/10.ROBOT/actuation/</loc>
+        <loc>https://localhost:8000/10.ROBOT/robot/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/10.ROBOT/actuation/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/10.ROBOT/actuation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/10.ROBOT/robot/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/10.ROBOT/robot/"/>
     </url>
     <url>
         <loc>https://localhost:8000/10.ROBOT/CONTROL/control/</loc>
@@ -1548,32 +1548,39 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/10.ROBOT/ROS/OFFICIAL-GUIDE/TUTORIALS/CLIENT-LIBRARIES/client-libraries/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/97.FAVORITES/Awesome%20Mobile%20Robotics/</loc>
+        <loc>https://localhost:8000/97.FAVORITES/favorites/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/Awesome%20Mobile%20Robotics/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/Awesome%20Mobile%20Robotics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/favorites/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/favorites/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/97.FAVORITES/awesome-robotic-tooling/</loc>
+        <loc>https://localhost:8000/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/awesome-robotic-tooling/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/awesome-robotic-tooling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/</loc>
+        <loc>https://localhost:8000/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/</loc>
+        <loc>https://localhost:8000/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/</loc>
+        <lastmod>2024-06-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/"/>
     </url>
     <url>
         <loc>https://localhost:8000/98.DEV/dev/</loc>
@@ -3164,11 +3171,11 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/09.AI/TRANSFORMER/transformer/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/10.ROBOT/actuation/</loc>
+        <loc>https://localhost:8000/zh/10.ROBOT/robot/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/10.ROBOT/actuation/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/10.ROBOT/actuation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/10.ROBOT/robot/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/10.ROBOT/robot/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/10.ROBOT/CONTROL/control/</loc>
@@ -3227,32 +3234,39 @@
         <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/10.ROBOT/ROS/OFFICIAL-GUIDE/TUTORIALS/CLIENT-LIBRARIES/client-libraries/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/97.FAVORITES/Awesome%20Mobile%20Robotics/</loc>
+        <loc>https://localhost:8000/zh/97.FAVORITES/favorites/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/Awesome%20Mobile%20Robotics/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/Awesome%20Mobile%20Robotics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/favorites/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/favorites/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/97.FAVORITES/awesome-robotic-tooling/</loc>
+        <loc>https://localhost:8000/zh/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/awesome-robotic-tooling/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/awesome-robotic-tooling/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/BOOK/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/</loc>
+        <loc>https://localhost:8000/zh/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%9B%B8%E5%85%B3%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E3%80%81%E5%BA%93%E3%80%81%E8%B5%84%E6%96%99/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/BOOK/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
     </url>
     <url>
-        <loc>https://localhost:8000/zh/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/</loc>
+        <loc>https://localhost:8000/zh/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/%E8%B6%85%E8%BF%871000%E6%9C%AC%E7%9A%84%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D%E5%88%86%E4%BA%AB/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/ROBOTICS/Awesome%20Mobile%20Robotics/"/>
+    </url>
+    <url>
+        <loc>https://localhost:8000/zh/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/</loc>
+        <lastmod>2024-06-12</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://localhost:8000/zh/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://localhost:8000/97.FAVORITES/ROBOTICS/awesome-robotic-tooling/"/>
     </url>
     <url>
         <loc>https://localhost:8000/zh/98.DEV/dev/</loc>
