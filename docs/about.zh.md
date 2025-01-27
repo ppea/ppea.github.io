@@ -20,7 +20,7 @@ comments: true
 ## 访客统计
 
 ### 地图视图
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=L99F920-IdeQIXd5E5nPwHSxjCviy8lFgOqZdFN1SWU&co=5e6e7a&cmo=cdc5dd&cmn=7c15e8&ct=ffffff'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gx0CRAgjX9QLd56uCB4HbR_oNwAZNnmhKEWSHgVzX_U&cl=ffffff&w=a"></script>
 
 ### 地球视图
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=L99F920-IdeQIXd5E5nPwHSxjCviy8lFgOqZdFN1SWU"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=gx0CRAgjX9QLd56uCB4HbR_oNwAZNnmhKEWSHgVzX_U"></script>
